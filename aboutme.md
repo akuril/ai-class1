@@ -1,1 +1,1 @@
-Abhi is currently taking an AI centric software engineering bootcamp where he is currently learning the foundation to software development.  The first class is about using Git and Github to learn how to use it to maintain and collaborate with your code.  
+Abhi is currently taking an AI centric software engineering bootcamp where he is currently learning the foundation to software development.  One of the first classes is about using Git and Github to learn how to use it to maintain and collaborate with your code.  
